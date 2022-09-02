@@ -17,3 +17,11 @@
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
+<p align="center">
+<span>&nbsp;🔳 <b>estudando</b>&nbsp;&nbsp;</span>
+<a href="https://www.python.org" target="_blank"> <img src="./img/python" alt="py" height="25"/> </a>
+<span>&nbsp;&nbsp;🔳 <b>Learning about</b>&nbsp;&nbsp;</span>
+<a href="https://developer.roku.com" target="_blank"> <img src="./img/roku.svg" alt="roku tv" height="25"/> </a>
+<a href="https://developer.android.com" target="_blank"> <img src="./img/android.svg" alt="android" height="25"/> </a>
+<a href="https://docs.aurelia.io" target="_blank"> <img src="./img/aurelia.svg" alt="aureliajs" height="25"/> </a>
+</p>
