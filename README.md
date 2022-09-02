@@ -6,7 +6,7 @@
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-  <img src="./hi.gif" width="18px">:shipit: &nbsp;&nbsp;
+  <img src="./git_image/hi.gif" width="18px">:shipit: &nbsp;&nbsp;
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=marselo10.visitor-badge">
 </p>
 
