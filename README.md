@@ -1,6 +1,5 @@
 ### Olá, me chamo Marcelo 👋
     🤓-Atualmente estudo na faculdade Impacta e estou cursando o 2º semestre de Ciências da Computação
-    📫-Meu e-mail: marselo.cyberartist@gmail.com
     📞- meu telefone: +55 (11)94103-2707 
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -30,4 +29,5 @@
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <div>
-   <a href = "mailto:marselo.cyberartist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:marselo.cyberartist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcelo-jos%C3%A9-vieira-filho-1aa094238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
