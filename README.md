@@ -1,7 +1,8 @@
 ### Olá, me chamo Marcelo 👋
     🤓-Atualmente estudo na faculdade Impacta e estou cursando o 2º semestre de Ciências da Computação
     📞- meu telefone: +55 (11)94103-2707 
-
+    🕹️- meus hobbies são desenhar no Affinity Designer e fazer edições
+    
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
