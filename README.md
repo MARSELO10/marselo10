@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marselo10&show_icons=true&theme=dark" width="360">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselo10&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="360"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marselo10&show_icons=true&theme=midnight-purple" width="360">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marselo10&layout=compact&theme=midnight-purple&langs_count=10&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B" width="360"/>  
 </p>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -31,3 +31,7 @@
 <div>
    <a href = "mailto:marselo.cyberartist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcelo-jos%C3%A9-vieira-filho-1aa094238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
