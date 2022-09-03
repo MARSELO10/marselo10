@@ -18,14 +18,16 @@
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<span>&nbsp;🔳 <b>TRABALHANDO COM:</b>&nbsp;&nbsp;</span>
-<img align="center" alt="MARSELO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<span>&nbsp;&nbsp;🔳 <b>APRENDENDO SOBRE:</b>&nbsp;&nbsp;</span>
-<img align="center" alt="MARSELO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="MARSELO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="MARSELO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="right" alt="MARSELO-pic" height="150" style="border-radius:50px;" src="./git_image/arte1.png">
+    <span>&nbsp;🔳 <b>TRABALHANDO COM:</b>&nbsp;&nbsp;</span>
+    <img align="center" alt="MARSELO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <span>&nbsp;&nbsp;🔳 <b>APRENDENDO SOBRE:</b>&nbsp;&nbsp;</span>
+    <img align="center" alt="MARSELO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="MARSELO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="MARSELO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="right" alt="MARSELO-pic" height="150" style="border-radius:50px;" src="./git_image/arte1.png">
 </p>
       
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
+<div>
+   <a href = "mailto:marselo.cyberartist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
